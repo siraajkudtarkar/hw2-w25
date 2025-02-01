@@ -57,6 +57,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
 }
 
 .blue h2 {
@@ -69,6 +71,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
+    border-top: none;
+    border-right: none;
 }
 
 .yellow {
@@ -78,6 +82,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #ffffff;
     border-left: 5px solid #ffffff;
+    border-right: none;
+    border-top: none;
 }
 
 .green {
@@ -86,6 +92,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid #ffffff;
     border-top: 2px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
 }
 
 footer {
